@@ -1,6 +1,6 @@
 # Click-Counter-3.0
 A follow up to the previous Click Counter games
-This is the updated Click Counter 3.0 The basic clicking game. The rules are simple you click untill you finish the game. This is just a follow up for Click Counter 1.0 
+This is the updated Click Counter 3.0 The basic clicking game. The rules are simple you click untill you finish the game. This is just a follow up for Click Counter 1.0, and 2.0
 
 To install it:
 
